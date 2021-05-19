@@ -1,2 +1,3 @@
 # ANDROID_APP
-Simple Android App does Count the numbers
+Simple Android App Display the Number increment by 1 every time count button being pressed.
+
